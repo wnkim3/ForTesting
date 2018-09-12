@@ -7,5 +7,5 @@ char* input()
 	str = a;
 	scanf("%s", a);
 
-	return str;
+	return (str);
 }
